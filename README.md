@@ -1,7 +1,6 @@
 # watcher
 
-Install node.js and npm 
-In repository root directory: 
+Install node.js and npm. In repository root directory: 
 
 - npm install gulp
 - npm install gulp-util
