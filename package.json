@@ -10,6 +10,7 @@
     "gulp": "^3.9.1",
     "gulp-directory-sync": "^1.2.3",
     "gulp-duration": "0.0.0",
+    "gulp-prompt": "^0.2.0",
     "gulp-util": "^3.0.8"
   },
   "scripts": {
